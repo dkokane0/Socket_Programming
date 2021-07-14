@@ -7,7 +7,7 @@
 #include <arpa/inet.h>
 #include <netinet/in.h>
 
-#define REMOTEPORT 4444
+#define REMOTEPORT 3333
 #define BUFLEN 1024
 
 int main()
