@@ -29,6 +29,7 @@ command :
     
 
 use to send and recieve data
-./syssend1
 
-./syssrcv1
+     ./syssend1
+
+     ./syssrcv1
