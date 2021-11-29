@@ -20,12 +20,12 @@ if you want to exit from messaging,you need to send exit message to receiver .
 
 use 4 different terminals
 command :
-1 .  gcc -o usend_sys1.c syssend1
-2 .  gcc -o usend_sys2.c syssend2
+'''1 .  gcc -o usend_sys1.c syssend1
+   2 .  gcc -o usend_sys2.c syssend2
 
-3 .  gcc -o urecv_sys1.c sysrcv1
-4 .  gcc -o urecv_sys2.c sysrcv2
-
+   3 .  gcc -o urecv_sys1.c sysrcv1 
+   4 .  gcc -o urecv_sys2.c sysrcv2
+'''
 
 
 use to send and recieve data
